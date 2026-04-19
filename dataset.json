@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
   "config_name": "Restaurant TikTok Renegades in Chicago-Naperville-Elgin Metro Area, IL-IN, US",
-  "export_job_id": "1a8ac2a2-7a88-4b67-ae29-9ae117834823",
+  "export_job_id": "cfe07821-42ea-4ce4-9560-56be6288072c",
   "github_org": "Beamstation-Datasets",
   "id_short": 992581,
   "location_name": "Chicago-Naperville-Elgin, IL-IN",
   "location_type": "metro",
   "repo_name": "restaurant-tiktok-renegades-in-chicago-naperville-elgin-metro-area-il-in-us-sample-992581",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/992581/beamstation_992581_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
-  "sample_pct": 9.3,
+  "sample_pct": 9.41,
   "sample_records": 8,
   "sample_sha256": "e2bbc78b58149636b1ec69be273661c7f663e29ebf892e014e5ed5dc11148f33",
   "sample_size_bytes": 45873,
-  "total_records": 86,
-  "updated_at": "2026-04-08T05:27:47.049181+00:00"
+  "total_records": 85,
+  "updated_at": "2026-04-15T09:36:18.398304+00:00"
 }
