@@ -9,9 +9,9 @@
 | Dataset ID | `992581` |
 | Location | Chicago-Naperville-Elgin, IL-IN |
 | Category | Restaurants |
-| Full dataset size | 86 records |
-| Free sample size | 8 records (9.3%) |
-| Last export | 2026-04-08T05:27:47.049181+00:00 |
+| Full dataset size | 85 records |
+| Free sample size | 8 records (9.41%) |
+| Last export | 2026-04-15T09:36:18.398304+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-chicago-naperville-elgin-metro-area-il-in-us-sample-992581/releases/download/sample-latest/beamstation_992581_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
