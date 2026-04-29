@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1b92c6cf-85e6-4413-b82f-fb2c269c11b9",
+  "export_job_id": "f7eb24a1-bc99-435f-b52a-7b50476cc861",
   "id_short": 992581,
-  "published_at": "2026-04-23T07:20:00Z",
+  "published_at": "2026-04-29T19:51:54Z",
   "repo_name": "restaurant-tiktok-renegades-in-chicago-naperville-elgin-metro-area-il-in-us-sample-992581",
   "sample_asset_name": "beamstation_992581_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/992581/beamstation_992581_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "2354ac793bf203849b5cd708e6a1f795451f73b6d15a184b33372c0a5e6f0c41",
-  "sample_size_bytes": 45761,
-  "total_records": 82
+  "sample_records": 6,
+  "sample_sha256": "8984650d7f7c18523eb616d715e6a2a451846a2a887cfd78b5555d307982b8b9",
+  "sample_size_bytes": 40101,
+  "total_records": 65
 }
